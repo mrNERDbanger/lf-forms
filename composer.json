@@ -1,0 +1,14 @@
+{
+    "name": "your-vendor/gravity-forms-converter",
+    "description": "Converts Gravity Forms JSON exports to WordPress custom post types",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=7.4",
+        "tecnickcom/tcpdf": "^6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "GFC\\": "includes/"
+        }
+    }
+} 

@@ -1,0 +1,29 @@
+.gfc-import-form {
+    max-width: 600px;
+    margin: 2em 0;
+    padding: 2em;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.wp-list-table .column-pdf {
+    width: 100px;
+}
+
+.wp-list-table .column-submitted {
+    width: 150px;
+}
+
+.wp-list-table .column-user,
+.wp-list-table .column-mentor,
+.wp-list-table .column-big_bird {
+    width: 150px;
+}
+
+.gfc-settings-page .form-table {
+    margin-top: 2em;
+}
+
+.media-upload {
+    margin-left: 1em;
+} 
